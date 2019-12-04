@@ -138,7 +138,7 @@ const hobbitArr = characters.filter(obj => obj.race === 'Hobbit');
 // });
 const attackArr = characters.filter(obj => obj.attack > 5);
 
-//Drill #8 - Bonuse: a database search
+//Drill #8 - Bonus: a database search
 const HEROES = [
   { id: 1, name: 'Captain America', squad: 'Avengers' },
   { id: 2, name: 'Iron Man', squad: 'Avengers' },
